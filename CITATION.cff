@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: 'Sistema Respiratorio [MATLAB; Spyder; Multisim]'
+title: 'Proyecto Final: Sistema Endocrino [MATLAB; Spyder; Multisim]'
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -24,4 +24,4 @@ keywords:
   - Funcion de trasferencia
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2025-03-28'
+date-released: '2025-05-23'
