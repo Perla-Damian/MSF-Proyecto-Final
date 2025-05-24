@@ -32,4 +32,4 @@ Posgrado en Ciencias de la Ingeniería [PCI] y Departamento de Ingeniería Eléc
 
 [2] M. C. Khoo, Physiological Control Systems Analysis Simulation, and Estimation, 2nd ed. Piscataway, New Jersey, USA: IEEE Press, 2018.
 
-[3] el doc de la IA
+[3] M. Dashti, J. Londono, S. Ghasemi, and N. Moghaddasi, “Artificial intelligence-assisted academic writing: Recommendations for ethical use,” Advances in Simulation, vol. 10, Art. no. 350, 2025. [Online]. Available: https://doi.org/10.1186/s41077-025-00350-6
